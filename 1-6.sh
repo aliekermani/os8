@@ -1,0 +1,1 @@
+chmod u+g test
